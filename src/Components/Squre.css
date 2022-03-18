@@ -1,0 +1,19 @@
+.squre{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    background: #222222;
+    border: 1px solid #222222;
+    outline: none;
+    cursor: pointer;
+    font-size: 50px ;
+
+   
+    
+}
+.squre:hover{
+    background-color: #4e4c4c;
+    transform: .2s all ease;
+}
